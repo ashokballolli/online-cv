@@ -12,34 +12,34 @@ sidebar:
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
+    email: ballolliashok@gmail.com
+    phone: +49-15166269341
+    website: www.edaari.com #do not add http://
+    linkedin: ashokballolli
+    github: ashokballolli
     telegram: # add your nickname without '@' sign
     gitlab:
-    bitbucket:
-    twitter: '@webjeda'
+    bitbucket: ashokballolli
+    twitter: '@ashok_ballolli'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
       - idiom: English
+        level: Professional
+
+      - idiom: Hindi
         level: Native
 
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
-        level: Professional
+      - idiom: Kannada
+        level: Native
 
     interests:
-      - item: Climbing
+      - item: Reading Books
         link:
 
-      - item: Snowboarding
+      - item: Trekking
         link:
 
       - item: Cooking
