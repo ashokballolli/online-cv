@@ -12,7 +12,11 @@
 
   {% for toolset in skills.toolsets %}
   <div class="item">
+    {% if toolset.link %}
+    <li><a href="{{ toolset.link }}">{{ toolset.title }}</a></li>
+    {% else %}
     <li>{{ toolset.title }}</li>
+    {% endif %}
     <div class="publication-conference">{{ toolset.details }}</div>
   </div><!--//item-->
   {% endfor %}

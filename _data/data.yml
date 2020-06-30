@@ -170,28 +170,36 @@ skills:
 
     toolsets:
       - title: Languages and Frameworks
+        link: "#"
         details: Java, Scala, Python, Play 2, SQL, Spring- boot, TestNG, ScalaTest, Shell script
 
       - title: Automation Tools
+        link: "#"
         details: Selenium-Webdriver, RestAssured (API), Jacoco for code coverage
 
       - title: Databases
+        link: "#"
         details: Oracle, MySQL, Elasticsearch, PostgreSQL, MongoDB, Redis, Memcache, RocksDB
 
       - title: Technologies & Tools
+        link: "#"
         details: Kafka, Elasticsearch, New Relic, Solr, RabbitMQ, Prometheus, Grafana, Graylog, Postman, Wireshark, Docker
 
       - title: Platforms
+        link: "#"
         details: AWS cloud, Verizon cloud, Linux (SUSE, Cent OS, Ubuntu), Windows, Mac
 
       - title: Cloud Services
+        link: "#"
         details: AWS EC2, S3, Redshift, AWS RDS, OpsWorks, Elasticsearch service, Amazon Lex, GCP Firestore, GCP VM Instance
 
       - title: Version Management Tools & PMS
+        link: "#"
         details: Git, JIRA
 
       - title: Load Testing Tools
+        link: "#"
         details: Locust and Wrk2
 
 footer: >
-     
+
