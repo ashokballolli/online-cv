@@ -29,6 +29,16 @@
  font-size: 18px;
  }
 
+.download-button {
+    border-radius: 15px;
+    background-color: #43A7C0;
+    border: none;
+}
+
+.prop-download-resume-button {
+    text-decoration: none;
+     color: white;
+}
  .fontcolor {
     color: black;
  }
