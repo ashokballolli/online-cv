@@ -10,27 +10,10 @@
     {{ skills.title }}
   </h2>
 
-  {% if projects.intro %}
-  <div class="intro">
-    <p>{{ projects.intro }}</p>
-  </div><!--//intro-->
-  {% endif %}
-
-  {% for project in projects.assignments %}
+  {% for toolset in skills.toolsets %}
   <div class="item">
-
-      <span class="project-title">
-        {% if project.link %}
-        <a href="{{ project.link }}" target="_blank">{{ project.title }}</a>
-        {% else %}
-        {{ project.title }}
-        {% endif %}
-      </span>
-
-    {% if project.tagline %}
-    - <span class="project-tagline">{{ project.tagline }}</span>
-    {% endif %}
-
+    <li>{{ toolset.title }}</li>
+    <div class="publication-conference">{{ toolset.details }}</div>
   </div><!--//item-->
   {% endfor %}
 

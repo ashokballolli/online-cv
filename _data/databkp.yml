@@ -166,32 +166,26 @@ publications:
         conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
-    title: Skills
+    title: Skills &amp; Proficiency
 
-    toolsets:
-      - title: Languages and Frameworks
-        details: Java, Scala, Python, Play 2, SQL, Spring- boot, TestNG, ScalaTest, Shell script
+    toolset:
+      - name: Python & Django
+        level: 98%
 
-      - title: Automation Tools
-        details: Selenium-Webdriver, RestAssured (API), Jacoco for code coverage
+      - name: Javascript & jQuery
+        level: 98%
 
-      - title: Databases
-        details: Oracle, MySQL, Elasticsearch, PostgreSQL, MongoDB, Redis, Memcache, RocksDB
+      - name: Angular
+        level: 98%
 
-      - title: Technologies & Tools
-        details: Kafka, Elasticsearch, New Relic, Solr, RabbitMQ, Prometheus, Grafana, Graylog, Postman, Wireshark, Docker
+      - name: HTML5 & CSS
+        level: 95%
 
-      - title: Platforms
-        details: AWS cloud, Verizon cloud, Linux (SUSE, Cent OS, Ubuntu), Windows, Mac
+      - name: Ruby on Rails
+        level: 85%
 
-      - title: Cloud Services
-        details: AWS EC2, S3, Redshift, AWS RDS, OpsWorks, Elasticsearch service, Amazon Lex, GCP Firestore, GCP VM Instance
-
-      - title: Version Management Tools & PMS
-        details: Git, JIRA
-
-      - title: Load Testing Tools
-        details: Locust and Wrk2
+      - name: Sketch & Photoshop
+        level: 60%
 
 footer: >
-     
+    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
