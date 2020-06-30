@@ -4,8 +4,26 @@
  */
  .skill-heading {
  color: #4D8999;
-
+ font-weight:900;
  }
+
+ .sub-heading {
+  color: #4D8999;
+  font-weight:900;
+  }
+
+ .company-name {
+   color: #4D8999;
+   margin-bottom: 10px;
+   }
+
+ .company-period {
+        position: absolute;
+        right: 0;
+        top: 0;
+        color: #4D8999;
+    }
+
  * {
  font-family: calibri;
  font-size: 18px;
