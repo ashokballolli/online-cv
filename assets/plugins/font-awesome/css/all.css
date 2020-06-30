@@ -2,6 +2,18 @@
  * Font Awesome Free 5.1.1 by @fontawesome - https://fontawesome.com
  * License - https://fontawesome.com/license (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License)
  */
+ .skill-heading {
+ color: #4D8999;
+
+ }
+ * {
+ font-family: calibri;
+ font-size: 18px;
+ }
+
+ .fontcolor {
+    color: black;
+ }
 .fa,
 .fas,
 .far,
